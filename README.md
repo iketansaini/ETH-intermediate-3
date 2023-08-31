@@ -41,6 +41,7 @@ customToken.transfer(anotherAddress, 500);
 
 // Burn tokens you own
 customToken.burn(200);
+```
 
-## License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
